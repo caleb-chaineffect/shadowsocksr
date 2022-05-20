@@ -1,3 +1,8 @@
+CUSTOMIZED NOTES:
+FAST ONE NODE IMPLEMENTATION OF SSR CLIENT ON LINUX
+// mannual-deployment.sh & ssr for details
+
+
 ShadowsocksR
 ===========
 
